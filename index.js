@@ -21,5 +21,7 @@ class BoardMember{
     return "";
   }
   
-  
+  sayHi(){
+    return ``;
+  }
 }
